@@ -27,7 +27,7 @@
     <TextView
         android:layout_width="0dp"
         android:layout_height="match_parent"
-        android:layout_weight="3"
+        android:layout_weight="2"
         android:background="#06372C"
         android:text="3"
         android:textColor="#27CD22"
@@ -37,7 +37,7 @@
     <TextView
         android:layout_width="0dp"
         android:layout_height="match_parent"
-        android:layout_weight="4"
+        android:layout_weight="1"
         android:background="#541E70"
         android:text="4"
         android:textColor="#B54AE3"
@@ -47,7 +47,7 @@
     <pl.droidsonroids.gif.GifImageView
         android:layout_width="0dp"
         android:layout_height="match_parent"
-        android:layout_weight="5"
+        android:layout_weight="3"
         android:src="@drawable/cheems"
         />
 
